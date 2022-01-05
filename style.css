@@ -16,6 +16,7 @@ h1{
 .half-width{
     width: 150%;
     padding-left: 5%;
+    box-shadow: ;
 }
 .half-width img{
     width: 80%;
@@ -36,4 +37,10 @@ h1{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
 }
